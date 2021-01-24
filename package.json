@@ -21,6 +21,6 @@
         "css-loader": "3.4.0",
         "style-loader": "0.23.1",
         "webpack": "3.0.0",
-        "webpack-dev-server": "3.9.0"
+        "webpack-dev-server": "3.11.2"
     }
 }
